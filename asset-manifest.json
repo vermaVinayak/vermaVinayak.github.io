@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.374d31bf.js",
-    "static/media/pokemonFightBackground.webp": "/static/media/pokemonFightBackground.afdd5c9a0a114a2c8f24.webp",
+    "main.js": "/static/js/main.490df8be.js",
+    "static/media/pokedexCover.png": "/static/media/pokedexCover.57d26dbf37f21c04ef20.png",
     "index.html": "/index.html",
-    "main.374d31bf.js.map": "/static/js/main.374d31bf.js.map"
+    "main.490df8be.js.map": "/static/js/main.490df8be.js.map"
   },
   "entrypoints": [
-    "static/js/main.374d31bf.js"
+    "static/js/main.490df8be.js"
   ]
 }
