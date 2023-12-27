@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.490df8be.js",
+    "main.js": "/static/js/main.5408cd7a.js",
+    "static/media/shortcutsTeam.jpeg": "/static/media/shortcutsTeam.7f71254b23ad0e7aa1f7.jpeg",
+    "static/media/profilePic2Edited.png": "/static/media/profilePic2Edited.468d99262e705a3ef0cc.png",
     "static/media/pokedexCover.png": "/static/media/pokedexCover.57d26dbf37f21c04ef20.png",
     "index.html": "/index.html",
-    "main.490df8be.js.map": "/static/js/main.490df8be.js.map"
+    "main.5408cd7a.js.map": "/static/js/main.5408cd7a.js.map"
   },
   "entrypoints": [
-    "static/js/main.490df8be.js"
+    "static/js/main.5408cd7a.js"
   ]
 }
