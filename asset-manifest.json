@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.e4ed9225.js",
+    "main.js": "/static/js/main.981495a3.js",
     "static/media/beachFightBackground.webp": "/static/media/beachFightBackground.21f94168c113860c747f.webp",
     "static/media/profilePic2Edited.png": "/static/media/profilePic2Edited.468d99262e705a3ef0cc.png",
     "static/media/shortcutsTeamUpdated.png": "/static/media/shortcutsTeamUpdated.52542b21710ce7b07798.png",
+    "static/media/asbuiltGetTogetherUpdated.jpg": "/static/media/asbuiltGetTogetherUpdated.64f3bb2023009c35d42b.jpg",
+    "static/media/part1AssistanceCentreUpdated.jpg": "/static/media/part1AssistanceCentreUpdated.23d7461f9bfc3bef046e.jpg",
+    "static/media/carloImageUpdated.jpg": "/static/media/carloImageUpdated.5903030879d5f39bc471.jpg",
     "static/media/pokedexCover.png": "/static/media/pokedexCover.57d26dbf37f21c04ef20.png",
+    "static/media/garyOakImageUpdated.jpg": "/static/media/garyOakImageUpdated.2ca444e08ad18e10ecab.jpg",
     "static/media/ministryOfEducationLogoUpdated.png": "/static/media/ministryOfEducationLogoUpdated.468dea14a82fb21101f8.png",
     "static/media/eMonitorSmallerUpdated.png": "/static/media/eMonitorSmallerUpdated.f93d22798c050ebd8a8d.png",
     "index.html": "/index.html",
-    "main.e4ed9225.js.map": "/static/js/main.e4ed9225.js.map"
+    "main.981495a3.js.map": "/static/js/main.981495a3.js.map"
   },
   "entrypoints": [
-    "static/js/main.e4ed9225.js"
+    "static/js/main.981495a3.js"
   ]
 }
